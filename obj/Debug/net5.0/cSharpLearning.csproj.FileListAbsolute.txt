@@ -1,0 +1,16 @@
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\cSharpLearning.exe
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\cSharpLearning.deps.json
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\cSharpLearning.runtimeconfig.json
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\cSharpLearning.runtimeconfig.dev.json
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\cSharpLearning.dll
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\ref\cSharpLearning.dll
+E:\dotnet-learning\cSharpLearning\bin\Debug\net5.0\cSharpLearning.pdb
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.csproj.AssemblyReference.cache
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.GeneratedMSBuildEditorConfig.editorconfig
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.AssemblyInfoInputs.cache
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.AssemblyInfo.cs
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.csproj.CoreCompileInputs.cache
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.dll
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\ref\cSharpLearning.dll
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.pdb
+E:\dotnet-learning\cSharpLearning\obj\Debug\net5.0\cSharpLearning.genruntimeconfig.cache
