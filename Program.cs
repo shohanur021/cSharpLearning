@@ -49,6 +49,7 @@ class Test
         Console.WriteLine("I am {0}. My age is {1}.",name,age);
         */
 
+        /*
         string name;
         int age;
         name = Console.ReadLine();
@@ -56,8 +57,23 @@ class Test
 
         age = Convert.ToInt32(Console.ReadLine());
         Console.WriteLine(age);
+        */
 
+        /*
+        int num1 = -52;
+        Console.WriteLine(Math.Abs(num1));
+        
+        double num2=-1;
+        Console.WriteLine(Math.Acos(num2));
 
+        int num1 = 20;
+        int num2 = 30;
+        Console.WriteLine(Math.Max(num1,num2));
+        
+        Console.WriteLine(Math.Pow(5,3));
+        Console.WriteLine(Math.Sqrt(49));
+        Console.WriteLine(Math.PI);
+        */
 
     }
 
